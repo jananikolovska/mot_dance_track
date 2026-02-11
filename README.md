@@ -6,6 +6,9 @@ University of Bologna
 
 ---
 
+![Demo](dancetrack0001_results.gif)
+
+
 ## Abstract
 
 This project analyzes the impact of different data association strategies for multi-object tracking on the DanceTrack dataset, a challenging benchmark characterized by crowded motion and visually similar targets.
