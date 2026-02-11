@@ -1,0 +1,91 @@
+[YOLO export] out_dir=/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY
+[YOLO export] conf_save=0.001 | overwrite=True | max_frames=1000
+[YOLO export] progress_every=50 | diag_window=50 | cleanup_every=400
+[YOLO export] min_fps_abort=2.0 | abort_after_windows=2
+[YOLO export] torch.cuda.is_available()=True
+[YOLO export] GPU=NVIDIA A100-SXM4-40GB
+
+[1/40] dancetrack0001: start | frames_to_process=703
+[1/40] dancetrack0001: DONE | frames=703 | dets=10761 | time=10.24s | fps=68.68 | ms/frame=14.56 | saved=dancetrack0001.txt
+[2/40] dancetrack0002: start | frames_to_process=1000
+[2/40] dancetrack0002: DONE | frames=1000 | dets=9752 | time=18.60s | fps=53.76 | ms/frame=18.60 | saved=dancetrack0002.txt
+[3/40] dancetrack0006: start | frames_to_process=1000
+[3/40] dancetrack0006: DONE | frames=1000 | dets=8811 | time=20.78s | fps=48.11 | ms/frame=20.78 | saved=dancetrack0006.txt
+[4/40] dancetrack0008: start | frames_to_process=883
+[4/40] dancetrack0008: DONE | frames=883 | dets=6858 | time=18.44s | fps=47.89 | ms/frame=20.88 | saved=dancetrack0008.txt
+[5/40] dancetrack0012: start | frames_to_process=1000
+[5/40] dancetrack0012: DONE | frames=1000 | dets=10452 | time=18.97s | fps=52.72 | ms/frame=18.97 | saved=dancetrack0012.txt
+[6/40] dancetrack0015: start | frames_to_process=1000
+[6/40] dancetrack0015: DONE | frames=1000 | dets=9005 | time=13.97s | fps=71.57 | ms/frame=13.97 | saved=dancetrack0015.txt
+[7/40] dancetrack0016: start | frames_to_process=1000
+[7/40] dancetrack0016: DONE | frames=1000 | dets=6044 | time=20.01s | fps=49.97 | ms/frame=20.01 | saved=dancetrack0016.txt
+[8/40] dancetrack0020: start | frames_to_process=583
+[8/40] dancetrack0020: DONE | frames=583 | dets=19134 | time=11.40s | fps=51.14 | ms/frame=19.55 | saved=dancetrack0020.txt
+[9/40] dancetrack0023: start | frames_to_process=1000
+[9/40] dancetrack0023: DONE | frames=1000 | dets=11957 | time=19.64s | fps=50.92 | ms/frame=19.64 | saved=dancetrack0023.txt
+[10/40] dancetrack0024: start | frames_to_process=763
+[10/40] dancetrack0024: DONE | frames=763 | dets=4849 | time=11.19s | fps=68.21 | ms/frame=14.66 | saved=dancetrack0024.txt
+[11/40] dancetrack0027: start | frames_to_process=403
+[11/40] dancetrack0027: DONE | frames=403 | dets=3519 | time=5.73s | fps=70.31 | ms/frame=14.22 | saved=dancetrack0027.txt
+[12/40] dancetrack0029: start | frames_to_process=1000
+[12/40] dancetrack0029: DONE | frames=1000 | dets=6111 | time=17.52s | fps=57.07 | ms/frame=17.52 | saved=dancetrack0029.txt
+[13/40] dancetrack0032: start | frames_to_process=604
+[13/40] dancetrack0032: DONE | frames=604 | dets=3756 | time=10.39s | fps=58.13 | ms/frame=17.20 | saved=dancetrack0032.txt
+[14/40] dancetrack0033: start | frames_to_process=803
+[14/40] dancetrack0033: DONE | frames=803 | dets=7447 | time=15.21s | fps=52.80 | ms/frame=18.94 | saved=dancetrack0033.txt
+[15/40] dancetrack0037: start | frames_to_process=1000
+[15/40] dancetrack0037: DONE | frames=1000 | dets=7375 | time=19.82s | fps=50.46 | ms/frame=19.82 | saved=dancetrack0037.txt
+[16/40] dancetrack0039: start | frames_to_process=1000
+[16/40] dancetrack0039: DONE | frames=1000 | dets=5061 | time=18.20s | fps=54.95 | ms/frame=18.20 | saved=dancetrack0039.txt
+[17/40] dancetrack0044: start | frames_to_process=1000
+[17/40] dancetrack0044: DONE | frames=1000 | dets=12969 | time=19.48s | fps=51.33 | ms/frame=19.48 | saved=dancetrack0044.txt
+[18/40] dancetrack0045: start | frames_to_process=1000
+[18/40] dancetrack0045: DONE | frames=1000 | dets=10645 | time=15.06s | fps=66.40 | ms/frame=15.06 | saved=dancetrack0045.txt
+[19/40] dancetrack0049: start | frames_to_process=1000
+[19/40] dancetrack0049: DONE | frames=1000 | dets=8886 | time=18.70s | fps=53.48 | ms/frame=18.70 | saved=dancetrack0049.txt
+[20/40] dancetrack0051: start | frames_to_process=1000
+[20/40] dancetrack0051: DONE | frames=1000 | dets=9628 | time=18.95s | fps=52.76 | ms/frame=18.95 | saved=dancetrack0051.txt
+[21/40] dancetrack0052: start | frames_to_process=1000
+[21/40] dancetrack0052: DONE | frames=1000 | dets=4729 | time=19.09s | fps=52.39 | ms/frame=19.09 | saved=dancetrack0052.txt
+[22/40] dancetrack0053: start | frames_to_process=1000
+[22/40] dancetrack0053: DONE | frames=1000 | dets=6402 | time=14.76s | fps=67.73 | ms/frame=14.76 | saved=dancetrack0053.txt
+[23/40] dancetrack0055: start | frames_to_process=1000
+[23/40] dancetrack0055: DONE | frames=1000 | dets=5891 | time=14.56s | fps=68.67 | ms/frame=14.56 | saved=dancetrack0055.txt
+[24/40] dancetrack0057: start | frames_to_process=622
+[24/40] dancetrack0057: DONE | frames=622 | dets=3425 | time=12.34s | fps=50.40 | ms/frame=19.84 | saved=dancetrack0057.txt
+[25/40] dancetrack0061: start | frames_to_process=1000
+[25/40] dancetrack0061: DONE | frames=1000 | dets=6151 | time=20.88s | fps=47.89 | ms/frame=20.88 | saved=dancetrack0061.txt
+[26/40] dancetrack0062: start | frames_to_process=1000
+[26/40] dancetrack0062: DONE | frames=1000 | dets=6035 | time=19.34s | fps=51.71 | ms/frame=19.34 | saved=dancetrack0062.txt
+[27/40] dancetrack0066: start | frames_to_process=1000
+[27/40] dancetrack0066: DONE | frames=1000 | dets=7146 | time=20.17s | fps=49.57 | ms/frame=20.17 | saved=dancetrack0066.txt
+[28/40] dancetrack0068: start | frames_to_process=1000
+[28/40] dancetrack0068: DONE | frames=1000 | dets=7947 | time=19.69s | fps=50.78 | ms/frame=19.69 | saved=dancetrack0068.txt
+[29/40] dancetrack0069: start | frames_to_process=1000
+[29/40] dancetrack0069: DONE | frames=1000 | dets=6070 | time=14.53s | fps=68.82 | ms/frame=14.53 | saved=dancetrack0069.txt
+[30/40] dancetrack0072: start | frames_to_process=1000
+[30/40] dancetrack0072: DONE | frames=1000 | dets=6556 | time=14.75s | fps=67.82 | ms/frame=14.75 | saved=dancetrack0072.txt
+[31/40] dancetrack0074: start | frames_to_process=1000
+[31/40] dancetrack0074: DONE | frames=1000 | dets=4785 | time=18.38s | fps=54.42 | ms/frame=18.38 | saved=dancetrack0074.txt
+[32/40] dancetrack0075: start | frames_to_process=803
+[32/40] dancetrack0075: DONE | frames=803 | dets=5338 | time=11.56s | fps=69.48 | ms/frame=14.39 | saved=dancetrack0075.txt
+[33/40] dancetrack0080: start | frames_to_process=1000
+[33/40] dancetrack0080: DONE | frames=1000 | dets=10843 | time=17.71s | fps=56.47 | ms/frame=17.71 | saved=dancetrack0080.txt
+[34/40] dancetrack0082: start | frames_to_process=603
+[34/40] dancetrack0082: DONE | frames=603 | dets=14112 | time=11.14s | fps=54.11 | ms/frame=18.48 | saved=dancetrack0082.txt
+[35/40] dancetrack0083: start | frames_to_process=603
+[35/40] dancetrack0083: DONE | frames=603 | dets=12199 | time=10.34s | fps=58.31 | ms/frame=17.15 | saved=dancetrack0083.txt
+[36/40] dancetrack0086: start | frames_to_process=603
+[36/40] dancetrack0086: DONE | frames=603 | dets=9944 | time=12.20s | fps=49.44 | ms/frame=20.23 | saved=dancetrack0086.txt
+[37/40] dancetrack0087: start | frames_to_process=1000
+[37/40] dancetrack0087: DONE | frames=1000 | dets=8279 | time=14.28s | fps=70.03 | ms/frame=14.28 | saved=dancetrack0087.txt
+[38/40] dancetrack0096: start | frames_to_process=603
+[38/40] dancetrack0096: DONE | frames=603 | dets=13577 | time=10.68s | fps=56.48 | ms/frame=17.71 | saved=dancetrack0096.txt
+[39/40] dancetrack0098: start | frames_to_process=1000
+[39/40] dancetrack0098: DONE | frames=1000 | dets=7813 | time=14.89s | fps=67.16 | ms/frame=14.89 | saved=dancetrack0098.txt
+[40/40] dancetrack0099: start | frames_to_process=603
+[40/40] dancetrack0099: DONE | frames=603 | dets=8867 | time=11.89s | fps=50.71 | ms/frame=19.72 | saved=dancetrack0099.txt
+
+=== YOLO EXPORT RUNTIME SUMMARY ===
+total_frames=35182 | total_dets=329129 | total_time=625.48s | fps=56.25 | ms/frame=17.78
+===================================

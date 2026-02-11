@@ -1,0 +1,14 @@
+{
+  "model": "B2",
+  "iou_thresh": 0.5,
+  "det_conf": 0.25,
+  "high_thresh": 0.7,
+  "low_thresh": 0.1,
+  "match_iou": 0.3,
+  "max_age": 20,
+  "min_hits": 3,
+  "iou_thresh_high": 0.35,
+  "iou_thresh_low": 0.25,
+  "reid_age": 3,
+  "reid_cos_thresh": 0.25
+}

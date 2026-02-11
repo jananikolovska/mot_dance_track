@@ -1,0 +1,10 @@
+{
+  "model": "B0",
+  "iou_thresh": 0.6,
+  "det_conf": 0.25,
+  "high_thresh": 0.6,
+  "low_thresh": 0.1,
+  "match_iou": 0.3,
+  "max_age": 15,
+  "min_hits": 3
+}

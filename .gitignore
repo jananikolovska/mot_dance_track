@@ -1,0 +1,5 @@
+# Ignore all DanceTrack prediction files
+**/dancetrack*
+
+# Allow only one example file (or files starting with this prefix)
+!**/dancetrack00001*

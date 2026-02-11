@@ -1,0 +1,412 @@
+{
+  "per_seq": [
+    {
+      "seq": "dancetrack0001",
+      "frames": 703,
+      "seconds": 10.235193486999378,
+      "fps": 68.6845833342518,
+      "ms_per_frame": 14.559307947367536,
+      "detections": 10761,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0001.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0002",
+      "frames": 1000,
+      "seconds": 18.60256702300012,
+      "fps": 53.75602188470038,
+      "ms_per_frame": 18.60256702300012,
+      "detections": 9752,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0002.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0006",
+      "frames": 1000,
+      "seconds": 20.78405979099989,
+      "fps": 48.1137953824127,
+      "ms_per_frame": 20.78405979099989,
+      "detections": 8811,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0006.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0008",
+      "frames": 883,
+      "seconds": 18.43780236300063,
+      "fps": 47.89074004675998,
+      "ms_per_frame": 20.880863378256656,
+      "detections": 6858,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0008.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0012",
+      "frames": 1000,
+      "seconds": 18.966462110000066,
+      "fps": 52.72464596719649,
+      "ms_per_frame": 18.966462110000066,
+      "detections": 10452,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0012.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0015",
+      "frames": 1000,
+      "seconds": 13.973306932000014,
+      "fps": 71.56502071173419,
+      "ms_per_frame": 13.973306932000014,
+      "detections": 9005,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0015.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0016",
+      "frames": 1000,
+      "seconds": 20.01397356199959,
+      "fps": 49.965090485514274,
+      "ms_per_frame": 20.01397356199959,
+      "detections": 6044,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0016.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0020",
+      "frames": 583,
+      "seconds": 11.400066555000194,
+      "fps": 51.140052313491964,
+      "ms_per_frame": 19.55414503430565,
+      "detections": 19134,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0020.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0023",
+      "frames": 1000,
+      "seconds": 19.63789254099993,
+      "fps": 50.921961097006886,
+      "ms_per_frame": 19.63789254099993,
+      "detections": 11957,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0023.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0024",
+      "frames": 763,
+      "seconds": 11.186441945999832,
+      "fps": 68.20756802593891,
+      "ms_per_frame": 14.661129680209477,
+      "detections": 4849,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0024.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0027",
+      "frames": 403,
+      "seconds": 5.732132914999966,
+      "fps": 70.30541789172773,
+      "ms_per_frame": 14.223654875930436,
+      "detections": 3519,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0027.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0029",
+      "frames": 1000,
+      "seconds": 17.52382784600013,
+      "fps": 57.065157726270016,
+      "ms_per_frame": 17.52382784600013,
+      "detections": 6111,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0029.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0032",
+      "frames": 604,
+      "seconds": 10.389940737999495,
+      "fps": 58.133151596425336,
+      "ms_per_frame": 17.201888639072013,
+      "detections": 3756,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0032.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0033",
+      "frames": 803,
+      "seconds": 15.209437668000646,
+      "fps": 52.79616627046266,
+      "ms_per_frame": 18.940769200498938,
+      "detections": 7447,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0033.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0037",
+      "frames": 1000,
+      "seconds": 19.817113727000105,
+      "fps": 50.46143519061184,
+      "ms_per_frame": 19.817113727000105,
+      "detections": 7375,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0037.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0039",
+      "frames": 1000,
+      "seconds": 18.19884754799932,
+      "fps": 54.94853437078956,
+      "ms_per_frame": 18.19884754799932,
+      "detections": 5061,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0039.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0044",
+      "frames": 1000,
+      "seconds": 19.480173791999732,
+      "fps": 51.334244277157715,
+      "ms_per_frame": 19.480173791999732,
+      "detections": 12969,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0044.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0045",
+      "frames": 1000,
+      "seconds": 15.061069297999893,
+      "fps": 66.39634810874948,
+      "ms_per_frame": 15.061069297999893,
+      "detections": 10645,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0045.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0049",
+      "frames": 1000,
+      "seconds": 18.700036639000245,
+      "fps": 53.47583105342315,
+      "ms_per_frame": 18.700036639000245,
+      "detections": 8886,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0049.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0051",
+      "frames": 1000,
+      "seconds": 18.95269756200014,
+      "fps": 52.762937662498466,
+      "ms_per_frame": 18.95269756200014,
+      "detections": 9628,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0051.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0052",
+      "frames": 1000,
+      "seconds": 19.088514068999757,
+      "fps": 52.387524580764826,
+      "ms_per_frame": 19.088514068999757,
+      "detections": 4729,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0052.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0053",
+      "frames": 1000,
+      "seconds": 14.763993172000482,
+      "fps": 67.73235318859895,
+      "ms_per_frame": 14.763993172000482,
+      "detections": 6402,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0053.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0055",
+      "frames": 1000,
+      "seconds": 14.561793908999789,
+      "fps": 68.67285763342377,
+      "ms_per_frame": 14.561793908999789,
+      "detections": 5891,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0055.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0057",
+      "frames": 622,
+      "seconds": 12.342394326999965,
+      "fps": 50.39540817775735,
+      "ms_per_frame": 19.843077696141425,
+      "detections": 3425,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0057.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0061",
+      "frames": 1000,
+      "seconds": 20.8809200529995,
+      "fps": 47.890610062287564,
+      "ms_per_frame": 20.8809200529995,
+      "detections": 6151,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0061.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0062",
+      "frames": 1000,
+      "seconds": 19.339099379999425,
+      "fps": 51.70871612740167,
+      "ms_per_frame": 19.339099379999425,
+      "detections": 6035,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0062.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0066",
+      "frames": 1000,
+      "seconds": 20.171767617000114,
+      "fps": 49.574237567422315,
+      "ms_per_frame": 20.171767617000114,
+      "detections": 7146,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0066.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0068",
+      "frames": 1000,
+      "seconds": 19.69292271499944,
+      "fps": 50.77966406877398,
+      "ms_per_frame": 19.69292271499944,
+      "detections": 7947,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0068.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0069",
+      "frames": 1000,
+      "seconds": 14.531076980999387,
+      "fps": 68.81802369553094,
+      "ms_per_frame": 14.531076980999387,
+      "detections": 6070,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0069.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0072",
+      "frames": 1000,
+      "seconds": 14.745302168999842,
+      "fps": 67.81821006709345,
+      "ms_per_frame": 14.745302168999842,
+      "detections": 6556,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0072.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0074",
+      "frames": 1000,
+      "seconds": 18.375848672999382,
+      "fps": 54.41925528421191,
+      "ms_per_frame": 18.375848672999382,
+      "detections": 4785,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0074.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0075",
+      "frames": 803,
+      "seconds": 11.557002169000043,
+      "fps": 69.48168636274286,
+      "ms_per_frame": 14.39228165504364,
+      "detections": 5338,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0075.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0080",
+      "frames": 1000,
+      "seconds": 17.708521669999755,
+      "fps": 56.46998764973778,
+      "ms_per_frame": 17.708521669999755,
+      "detections": 10843,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0080.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0082",
+      "frames": 603,
+      "seconds": 11.144650214999274,
+      "fps": 54.106677945660344,
+      "ms_per_frame": 18.482006990048546,
+      "detections": 14112,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0082.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0083",
+      "frames": 603,
+      "seconds": 10.34044784300022,
+      "fps": 58.3146889917529,
+      "ms_per_frame": 17.148338048093233,
+      "detections": 12199,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0083.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0086",
+      "frames": 603,
+      "seconds": 12.196168589999616,
+      "fps": 49.44175669188736,
+      "ms_per_frame": 20.225818557213294,
+      "detections": 9944,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0086.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0087",
+      "frames": 1000,
+      "seconds": 14.280335765000018,
+      "fps": 70.02636467770748,
+      "ms_per_frame": 14.280335765000018,
+      "detections": 8279,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0087.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0096",
+      "frames": 603,
+      "seconds": 10.676860648000002,
+      "fps": 56.47727547263197,
+      "ms_per_frame": 17.706236563847433,
+      "detections": 13577,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0096.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0098",
+      "frames": 1000,
+      "seconds": 14.889856842999507,
+      "fps": 67.15981292124725,
+      "ms_per_frame": 14.889856842999507,
+      "detections": 7813,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0098.txt",
+      "aborted": false
+    },
+    {
+      "seq": "dancetrack0099",
+      "frames": 603,
+      "seconds": 11.892056076999324,
+      "fps": 50.706118109069045,
+      "ms_per_frame": 19.721486031508,
+      "detections": 8867,
+      "out_file": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY/dancetrack0099.txt",
+      "aborted": false
+    }
+  ],
+  "overall": {
+    "frames": 35182,
+    "seconds": 625.4825769279942,
+    "fps": 56.24776979847061,
+    "ms_per_frame": 17.778482659541645,
+    "detections": 329129,
+    "out_dir": "/content/drive/MyDrive/DANCE/results/outputs/YOLO_ONLY"
+  }
+}

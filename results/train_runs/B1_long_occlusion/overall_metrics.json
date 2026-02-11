@@ -1,0 +1,404 @@
+{
+  "num_frames": 41796.0,
+  "num_objects": 348930.0,
+  "num_predictions": 214559.0,
+  "num_matches": 194372.0,
+  "num_switches": 4924,
+  "num_fragmentations": 14085,
+  "precision": 0.9288633895571847,
+  "recall": 0.5711632705700284,
+  "mota": 0.51330925973691,
+  "motp": 0.1741055292549406,
+  "idf1": 0.32315093994736366,
+  "idp": 0.42434015818492815,
+  "idr": 0.2609291261857679,
+  "mostly_tracked": 49.0,
+  "partially_tracked": 327.0,
+  "mostly_lost": 43.0,
+  "iou_thresh": 0.5,
+  "run_dir": "/content/drive/MyDrive/DANCE/results/train_runs/B1_long_occlusion",
+  "cfg": {
+    "model": "B1",
+    "iou_thresh": 0.5,
+    "det_conf": 0.25,
+    "high_thresh": 0.6,
+    "low_thresh": 0.1,
+    "match_iou": 0.3,
+    "max_age": 60,
+    "min_hits": 3,
+    "iou_thresh_high": 0.3,
+    "iou_thresh_low": 0.2
+  },
+  "runtime": {
+    "per_seq": [
+      {
+        "seq": "dancetrack0001",
+        "seconds": 2.6867835560005915,
+        "frames": 703,
+        "fps": 261.6511473095547,
+        "ms_per_frame": 3.821882725463146,
+        "total_dets": 6035,
+        "avg_dets_per_frame": 8.584637268847795
+      },
+      {
+        "seq": "dancetrack0002",
+        "seconds": 6.740574719999131,
+        "frames": 1000,
+        "fps": 148.35530226124826,
+        "ms_per_frame": 6.740574719999131,
+        "total_dets": 6543,
+        "avg_dets_per_frame": 6.543
+      },
+      {
+        "seq": "dancetrack0006",
+        "seconds": 8.721429158998944,
+        "frames": 1000,
+        "fps": 114.66010693536163,
+        "ms_per_frame": 8.721429158998944,
+        "total_dets": 7374,
+        "avg_dets_per_frame": 7.374
+      },
+      {
+        "seq": "dancetrack0008",
+        "seconds": 7.462178439000127,
+        "frames": 883,
+        "fps": 118.3300569958382,
+        "ms_per_frame": 8.450938209513167,
+        "total_dets": 5984,
+        "avg_dets_per_frame": 6.776896942242356
+      },
+      {
+        "seq": "dancetrack0012",
+        "seconds": 6.772399550998671,
+        "frames": 1000,
+        "fps": 147.6581516594865,
+        "ms_per_frame": 6.772399550998671,
+        "total_dets": 8252,
+        "avg_dets_per_frame": 8.252
+      },
+      {
+        "seq": "dancetrack0015",
+        "seconds": 3.448139394999089,
+        "frames": 1000,
+        "fps": 290.01147733479735,
+        "ms_per_frame": 3.448139394999089,
+        "total_dets": 8536,
+        "avg_dets_per_frame": 8.536
+      },
+      {
+        "seq": "dancetrack0016",
+        "seconds": 7.721895321999909,
+        "frames": 1000,
+        "fps": 129.50188500366875,
+        "ms_per_frame": 7.721895321999909,
+        "total_dets": 5568,
+        "avg_dets_per_frame": 5.568
+      },
+      {
+        "seq": "dancetrack0020",
+        "seconds": 4.748027756999363,
+        "frames": 583,
+        "fps": 122.78782472165699,
+        "ms_per_frame": 8.144129943395134,
+        "total_dets": 11141,
+        "avg_dets_per_frame": 19.10977701543739
+      },
+      {
+        "seq": "dancetrack0023",
+        "seconds": 7.6598539970000274,
+        "frames": 1000,
+        "fps": 130.55079122808982,
+        "ms_per_frame": 7.6598539970000274,
+        "total_dets": 6704,
+        "avg_dets_per_frame": 6.704
+      },
+      {
+        "seq": "dancetrack0024",
+        "seconds": 3.2640985319994797,
+        "frames": 763,
+        "fps": 233.75519841694583,
+        "ms_per_frame": 4.277979727391192,
+        "total_dets": 4186,
+        "avg_dets_per_frame": 5.486238532110092
+      },
+      {
+        "seq": "dancetrack0027",
+        "seconds": 1.4703265059997648,
+        "frames": 403,
+        "fps": 274.0887812030401,
+        "ms_per_frame": 3.648452868485769,
+        "total_dets": 1943,
+        "avg_dets_per_frame": 4.8213399503722085
+      },
+      {
+        "seq": "dancetrack0029",
+        "seconds": 6.3586575989993435,
+        "frames": 1000,
+        "fps": 157.26589841185492,
+        "ms_per_frame": 6.3586575989993435,
+        "total_dets": 3529,
+        "avg_dets_per_frame": 3.529
+      },
+      {
+        "seq": "dancetrack0032",
+        "seconds": 3.6520480809995206,
+        "frames": 604,
+        "fps": 165.38665061460324,
+        "ms_per_frame": 6.046437220197882,
+        "total_dets": 2053,
+        "avg_dets_per_frame": 3.3990066225165565
+      },
+      {
+        "seq": "dancetrack0033",
+        "seconds": 5.688964271999794,
+        "frames": 803,
+        "fps": 141.15047337390433,
+        "ms_per_frame": 7.0846379476958825,
+        "total_dets": 5913,
+        "avg_dets_per_frame": 7.363636363636363
+      },
+      {
+        "seq": "dancetrack0037",
+        "seconds": 8.239534921000086,
+        "frames": 1000,
+        "fps": 121.36607339951944,
+        "ms_per_frame": 8.239534921000086,
+        "total_dets": 5955,
+        "avg_dets_per_frame": 5.955
+      },
+      {
+        "seq": "dancetrack0039",
+        "seconds": 6.554508966999492,
+        "frames": 1000,
+        "fps": 152.5667300227644,
+        "ms_per_frame": 6.554508966999492,
+        "total_dets": 4740,
+        "avg_dets_per_frame": 4.74
+      },
+      {
+        "seq": "dancetrack0044",
+        "seconds": 7.724147693999839,
+        "frames": 1000,
+        "fps": 129.46412207741776,
+        "ms_per_frame": 7.724147693999839,
+        "total_dets": 7494,
+        "avg_dets_per_frame": 7.494
+      },
+      {
+        "seq": "dancetrack0045",
+        "seconds": 4.454950343999371,
+        "frames": 1000,
+        "fps": 224.46939309816494,
+        "ms_per_frame": 4.454950343999371,
+        "total_dets": 8880,
+        "avg_dets_per_frame": 8.88
+      },
+      {
+        "seq": "dancetrack0049",
+        "seconds": 7.240571905000252,
+        "frames": 1000,
+        "fps": 138.11063727015983,
+        "ms_per_frame": 7.240571905000252,
+        "total_dets": 7311,
+        "avg_dets_per_frame": 7.311
+      },
+      {
+        "seq": "dancetrack0051",
+        "seconds": 7.240124201998697,
+        "frames": 1000,
+        "fps": 138.11917753067573,
+        "ms_per_frame": 7.240124201998697,
+        "total_dets": 7483,
+        "avg_dets_per_frame": 7.483
+      },
+      {
+        "seq": "dancetrack0052",
+        "seconds": 7.699776772000405,
+        "frames": 1000,
+        "fps": 129.87389499867274,
+        "ms_per_frame": 7.699776772000405,
+        "total_dets": 3725,
+        "avg_dets_per_frame": 3.725
+      },
+      {
+        "seq": "dancetrack0053",
+        "seconds": 4.100283239999044,
+        "frames": 1000,
+        "fps": 243.8855906940305,
+        "ms_per_frame": 4.100283239999044,
+        "total_dets": 4753,
+        "avg_dets_per_frame": 4.753
+      },
+      {
+        "seq": "dancetrack0055",
+        "seconds": 3.8707140869992145,
+        "frames": 1000,
+        "fps": 258.3502623866631,
+        "ms_per_frame": 3.8707140869992145,
+        "total_dets": 4275,
+        "avg_dets_per_frame": 4.275
+      },
+      {
+        "seq": "dancetrack0057",
+        "seconds": 5.449609162000343,
+        "frames": 622,
+        "fps": 114.13662549181556,
+        "ms_per_frame": 8.761429520900872,
+        "total_dets": 2816,
+        "avg_dets_per_frame": 4.527331189710611
+      },
+      {
+        "seq": "dancetrack0061",
+        "seconds": 9.341093640001418,
+        "frames": 1000,
+        "fps": 107.0538459991124,
+        "ms_per_frame": 9.341093640001418,
+        "total_dets": 4631,
+        "avg_dets_per_frame": 4.631
+      },
+      {
+        "seq": "dancetrack0062",
+        "seconds": 7.9452830249992985,
+        "frames": 1000,
+        "fps": 125.86084055829947,
+        "ms_per_frame": 7.9452830249992985,
+        "total_dets": 4656,
+        "avg_dets_per_frame": 4.656
+      },
+      {
+        "seq": "dancetrack0066",
+        "seconds": 8.71561045800081,
+        "frames": 1000,
+        "fps": 114.73665612051462,
+        "ms_per_frame": 8.71561045800081,
+        "total_dets": 5132,
+        "avg_dets_per_frame": 5.132
+      },
+      {
+        "seq": "dancetrack0068",
+        "seconds": 7.962805989000117,
+        "frames": 1000,
+        "fps": 125.58387098485231,
+        "ms_per_frame": 7.962805989000117,
+        "total_dets": 4681,
+        "avg_dets_per_frame": 4.681
+      },
+      {
+        "seq": "dancetrack0069",
+        "seconds": 3.9214966249983263,
+        "frames": 1000,
+        "fps": 255.0046820454491,
+        "ms_per_frame": 3.9214966249983263,
+        "total_dets": 5586,
+        "avg_dets_per_frame": 5.586
+      },
+      {
+        "seq": "dancetrack0072",
+        "seconds": 4.0010869829984586,
+        "frames": 1000,
+        "fps": 249.932082019019,
+        "ms_per_frame": 4.0010869829984586,
+        "total_dets": 4286,
+        "avg_dets_per_frame": 4.286
+      },
+      {
+        "seq": "dancetrack0074",
+        "seconds": 6.735928422000143,
+        "frames": 1000,
+        "fps": 148.45763454580526,
+        "ms_per_frame": 6.735928422000143,
+        "total_dets": 4002,
+        "avg_dets_per_frame": 4.002
+      },
+      {
+        "seq": "dancetrack0075",
+        "seconds": 2.8498579370007064,
+        "frames": 803,
+        "fps": 281.76843118190874,
+        "ms_per_frame": 3.549013620175226,
+        "total_dets": 4796,
+        "avg_dets_per_frame": 5.972602739726027
+      },
+      {
+        "seq": "dancetrack0080",
+        "seconds": 6.573251578000054,
+        "frames": 1000,
+        "fps": 152.13170957078373,
+        "ms_per_frame": 6.573251578000054,
+        "total_dets": 8029,
+        "avg_dets_per_frame": 8.029
+      },
+      {
+        "seq": "dancetrack0082",
+        "seconds": 4.251716892998957,
+        "frames": 603,
+        "fps": 141.8250591879538,
+        "ms_per_frame": 7.05094012105963,
+        "total_dets": 9188,
+        "avg_dets_per_frame": 15.23714759535655
+      },
+      {
+        "seq": "dancetrack0083",
+        "seconds": 3.7170670209998207,
+        "frames": 603,
+        "fps": 162.22467784231785,
+        "ms_per_frame": 6.164290250414297,
+        "total_dets": 5943,
+        "avg_dets_per_frame": 9.855721393034825
+      },
+      {
+        "seq": "dancetrack0086",
+        "seconds": 5.4631012930003635,
+        "frames": 603,
+        "fps": 110.37686611679669,
+        "ms_per_frame": 9.059869474295793,
+        "total_dets": 5550,
+        "avg_dets_per_frame": 9.203980099502488
+      },
+      {
+        "seq": "dancetrack0087",
+        "seconds": 3.6673256880003464,
+        "frames": 1000,
+        "fps": 272.67826342013876,
+        "ms_per_frame": 3.6673256880003464,
+        "total_dets": 5600,
+        "avg_dets_per_frame": 5.6
+      },
+      {
+        "seq": "dancetrack0096",
+        "seconds": 3.997940227998697,
+        "frames": 603,
+        "fps": 150.82766765171272,
+        "ms_per_frame": 6.630083296846927,
+        "total_dets": 8661,
+        "avg_dets_per_frame": 14.36318407960199
+      },
+      {
+        "seq": "dancetrack0098",
+        "seconds": 3.5106417999995756,
+        "frames": 1000,
+        "fps": 284.8482006908597,
+        "ms_per_frame": 3.5106417999995756,
+        "total_dets": 6513,
+        "avg_dets_per_frame": 6.513
+      },
+      {
+        "seq": "dancetrack0099",
+        "seconds": 4.767625958000281,
+        "frames": 603,
+        "fps": 126.47804280621892,
+        "ms_per_frame": 7.906510709784877,
+        "total_dets": 6094,
+        "avg_dets_per_frame": 10.106135986733001
+      }
+    ],
+    "overall": {
+      "seconds": 226.39143171798787,
+      "frames": 35182,
+      "fps": 155.40340786318117,
+      "ms_per_frame": 6.434865320845542,
+      "total_dets": 234541,
+      "avg_dets_per_frame": 6.666505599454267
+    }
+  }
+}
